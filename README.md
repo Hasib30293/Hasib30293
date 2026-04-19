@@ -22,7 +22,9 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 ---
 
 ## 📊 GitHub Stats
-![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hossain&show_icons=true&theme=radical)
+
+![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hossain&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Hossain&layout=compact&theme=radical)
 
 ---
