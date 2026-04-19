@@ -21,14 +21,6 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasibul-Hossain&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul-Hossain&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
 ## 🎯 Skills
 - **C/C++** [██████████] 90%
 - **Java** [█████████ ] 85%
@@ -36,6 +28,8 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 - **MySQL** [███████   ] 70%
 - **React & Node.js** [███████   ] 70%
 -  **HTML & CSS** [██████████] 90%
+-   **Figma**  [█████████ ] 85%
+
 
 ---
 
