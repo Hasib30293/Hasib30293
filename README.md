@@ -53,15 +53,5 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 
 ---
 
-## 👀 Visitors
-![Visitor Count](https://profile-counter.glitch.me/Hasibul-Hossain/count.svg)
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hasibul-Hossain&theme=radical)
-
----
-
 ## 🐻 Fun GIF
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
