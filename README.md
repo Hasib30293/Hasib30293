@@ -36,7 +36,7 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 ## 🚀 Projects
 - [Earn-n-Learn V2](https://github.com/Hasbul-Hossain/earn-n-learn-V2-main) - Interactive learning platform  
 - [WorksLink0](https://github.com/pawpaw64/WorksLink0) - Work managing platfrom
-- [Crime Reporting System](https://github.com/pawpaw64/crime-reporting-system) - System for reporting and tracking crimes  
+- [CookBook](https://github.com/Hasbul-Hossain/CookBook) - Platform for shearing racipes.
 
 ---
 
