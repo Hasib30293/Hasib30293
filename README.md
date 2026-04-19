@@ -35,6 +35,7 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 - **Python** [███████   ] 70%
 - **MySQL** [███████   ] 70%
 - **React & Node.js** [███████   ] 70%
+-  **HTML & CSS** [██████████] 90%
 
 ---
 
