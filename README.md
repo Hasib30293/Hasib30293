@@ -55,3 +55,10 @@ Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning
 
 ## 🐻 Fun GIF
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
+
+---
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
