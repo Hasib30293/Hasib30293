@@ -1,64 +1,110 @@
-# Hasibul-Hossain
+# 👋 Hi, I'm Hasibul Hossain
 
-<h2>👋 About Me</h2>
-
-Hi! I’m Hasib. I love exploring new things, taking on challenges, and learning every day. Curious, motivated, and always excited for new adventures. 🚀
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F5FF&size=28&center=true&vCenter=true&width=900&lines=Hi,+I+am+Hasib.+Welcome+to+my+area😁)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=28&center=true&vCenter=true&width=900&lines=Hi,+I'm+Hasib!+👋;Full+Stack+Developer;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
-## 🌐 Socials
-[![](https://img.shields.io/badge/Facebook--blue?logo=facebook&logoColor=white)](https://www.facebook.com/hasibul.hossain.795923)
-[![](https://img.shields.io/badge/Instagram--pink?logo=instagram&logoColor=white)](https://www.instagram.com/_i_am_hasib_/)
-[![](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-hossain-b50bb3249/)
-[![](https://img.shields.io/badge/Email--red?logo=gmail&logoColor=white)](mailto:iamhasib6@gmail.com)
+## 🧑‍💻 About Me
+
+* 🎯 Passionate about **Web Development & Problem Solving**
+* 🚀 Love building real-world projects
+* 📚 Always learning new technologies
+* 🌍 Exploring opportunities to grow
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.facebook.com/hasibul.hossain.795923"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_i_am_hasib_/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hasibul-hossain-b50bb3249/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:iamhasib6@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-![](https://skillicons.dev/icons?i=c,cpp,java,js,python,javascript,tailwind,vite,react,nodejs,mysql,figma,github)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,tailwind,vite,mysql,figma,github" />
+</p>
 
 ---
 
-## 🎯 Skills
-- **C/C++** [██████████] 90%
-- **Java** [█████████ ] 85%
-- **Python** [███████   ] 70%
-- **MySQL** [███████   ] 70%
-- **React & Node.js** [███████   ] 70%
--  **HTML & CSS** [██████████] 90%
--   **Figma**  [█████████ ] 85%
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasib30293&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasib30293&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib30293&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Projects
-- [CookBook](https://github.com/Hasib30293/CookBook) - Platform for shearing racipes.
-- [Earn-n-Learn](https://github.com/Hasib30293/Earn-N-Learn) - Interactive learning platform  
-- [WorksLink](https://github.com/Hasib30293/WorksLink) - Work managing platfrom
+
+### 🔹 CookBook
+
+🍲 Platform for **sharing recipes**
+🔗 https://github.com/Hasib30293/CookBook
+
+### 🔹 Earn-n-Learn
+
+📘 Interactive learning platform
+🔗 https://github.com/Hasib30293/Earn-N-Learn
+
+### 🔹 WorksLink
+
+🧑‍💼 Work management platform
+🔗 https://github.com/Hasib30293/WorksLink
 
 ---
 
-## 🐻 Fun & Interests
-- Gaming 🎮  
-- Exploring new tech 🌐  
-- Traveling ✈️  
-- Reading 📚  
+## 🎯 Skills
+
+* C/C++ ██████████ 90%
+* Java █████████░ 85%
+* Python ███████░░ 70%
+* MySQL ███████░░ 70%
+* React & Node.js ███████░░ 70%
+* HTML & CSS ██████████ 90%
+* Figma █████████░ 85%
 
 ---
 
-## 🔥 Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🎮 Fun & Interests
+
+* 🎮 Gaming
+* 🌐 Exploring Tech
+* ✈️ Traveling
+* 📚 Reading
 
 ---
 
-## 🐻 Fun GIF
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
+## 🔥 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Hasib30293/Hasib30293/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
 
+✨ *Thanks for visiting my profile!*
