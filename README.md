@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.facebook.com/hasibul.hossain.795923"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/_i_am_hasib_/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hasibul-hossain-b50bb3249/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hasibul-hossain293/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:iamhasib6@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
 </p>
 
